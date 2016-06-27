@@ -1,0 +1,23 @@
+{
+  "name": "wa-dumps",
+  "version": "0.1.0",
+  "description": "Personal log of dumped WhatsApp databases",
+  "main": "re-dump.js",
+  "scripts": {
+    "standard": "standard re-dump.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atask/wa-dumps.git"
+  },
+  "author": "ᴉuᴉɥɔsɐʇ uɐllɐ <allan.taschini@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/atask/wa-dumps#readme",
+  "dependencies": {
+    "swearing": "^1.0.1",
+    "wa-snap": "^0.2.0"
+  },
+  "devDependencies": {
+    "standard": "^7.1.2"
+  }
+}
