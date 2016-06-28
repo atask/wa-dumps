@@ -1,14 +1,26 @@
 [
   {
-    "day": "20160615",
+    "day": "20160612",
     "wa": "dumps/whatsapp_20160615/wa_20160615.db",
     "msgstore": "dumps/whatsapp_20160615/msgstore_20160615.db",
-    "out": "parsed/20160615.json"
+    "out": "parsed/20160612.json"
+  },
+  {
+    "day": "20160613",
+    "wa": "dumps/whatsapp_20160615/wa_20160615.db",
+    "msgstore": "dumps/whatsapp_20160615/msgstore_20160615.db",
+    "out": "parsed/20160613.json"
   },
   {
     "day": "20160614",
     "wa": "dumps/whatsapp_20160615/wa_20160615.db",
     "msgstore": "dumps/whatsapp_20160615/msgstore_20160615.db",
     "out": "parsed/20160614.json"
+  },
+  {
+    "day": "20160615",
+    "wa": "dumps/whatsapp_20160615/wa_20160615.db",
+    "msgstore": "dumps/whatsapp_20160615/msgstore_20160615.db",
+    "out": "parsed/20160615.json"
   }
 ]

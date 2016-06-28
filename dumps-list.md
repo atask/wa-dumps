@@ -46,4 +46,6 @@ Dumps available
 Days processed
 ===============
 
+* 20160613, from 20160615
+* 20160614, from 20160615 (to verify. missing _IMG-20160615-WA0000_ entry)
 * 20160615, from 20160615
