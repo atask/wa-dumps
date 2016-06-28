@@ -1,5 +1,11 @@
 [
   {
+    "day": "20160611",
+    "wa": "dumps/whatsapp_20160615/wa_20160615.db",
+    "msgstore": "dumps/whatsapp_20160615/msgstore_20160615.db",
+    "out": "parsed/20160611.json"
+  },
+  {
     "day": "20160612",
     "wa": "dumps/whatsapp_20160615/wa_20160615.db",
     "msgstore": "dumps/whatsapp_20160615/msgstore_20160615.db",
