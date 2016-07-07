@@ -1,5 +1,11 @@
 [
   {
+    "day": "20160610",
+    "wa": "dumps/whatsapp_20160621/wa_20160621.db",
+    "msgstore": "dumps/whatsapp_20160621/msgstore_20160621.db",
+    "out": "parsed/20160610.json"
+  },
+  {
     "day": "20160611",
     "wa": "dumps/whatsapp_20160615/wa_20160615.db",
     "msgstore": "dumps/whatsapp_20160615/msgstore_20160615.db",
@@ -25,8 +31,8 @@
   },
   {
     "day": "20160615",
-    "wa": "dumps/whatsapp_20160615/wa_20160615.db",
-    "msgstore": "dumps/whatsapp_20160615/msgstore_20160615.db",
+    "wa": "dumps/whatsapp_20160616/wa_20160616.db",
+    "msgstore": "dumps/whatsapp_20160616/msgstore_20160616.db",
     "out": "parsed/20160615.json"
   }
 ]
