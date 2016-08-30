@@ -1,38 +1,26 @@
 [
   {
-    "day": "20160610",
-    "wa": "dumps/whatsapp_20160621/wa_20160621.db",
-    "msgstore": "dumps/whatsapp_20160621/msgstore_20160621.db",
-    "out": "parsed/20160610.json"
+    "targetDay": "20160610",
+    "snapshotDay": "20160621"
   },
   {
-    "day": "20160611",
-    "wa": "dumps/whatsapp_20160615/wa_20160615.db",
-    "msgstore": "dumps/whatsapp_20160615/msgstore_20160615.db",
-    "out": "parsed/20160611.json"
+    "targetDay": "20160611",
+    "snapshotDay": "20160615"
   },
   {
-    "day": "20160612",
-    "wa": "dumps/whatsapp_20160615/wa_20160615.db",
-    "msgstore": "dumps/whatsapp_20160615/msgstore_20160615.db",
-    "out": "parsed/20160612.json"
+    "targetDay": "20160612",
+    "snapshotDay": "20160615"
   },
   {
-    "day": "20160613",
-    "wa": "dumps/whatsapp_20160615/wa_20160615.db",
-    "msgstore": "dumps/whatsapp_20160615/msgstore_20160615.db",
-    "out": "parsed/20160613.json"
+    "targetDay": "20160613",
+    "snapshotDay": "20160615"
   },
   {
-    "day": "20160614",
-    "wa": "dumps/whatsapp_20160615/wa_20160615.db",
-    "msgstore": "dumps/whatsapp_20160615/msgstore_20160615.db",
-    "out": "parsed/20160614.json"
+    "targetDay": "20160614",
+    "snapshotDay": "20160615"
   },
   {
-    "day": "20160615",
-    "wa": "dumps/whatsapp_20160616/wa_20160616.db",
-    "msgstore": "dumps/whatsapp_20160616/msgstore_20160616.db",
-    "out": "parsed/20160615.json"
+    "targetDay": "20160615",
+    "snapshotDay": "20160616"
   }
 ]

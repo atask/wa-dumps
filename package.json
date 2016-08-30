@@ -14,9 +14,11 @@
   "license": "ISC",
   "homepage": "https://github.com/atask/wa-dumps#readme",
   "dependencies": {
+    "common-tags": "^1.3.0",
+    "moment": "^2.13.0",
     "promiseproxy-node": "^1.0.0",
-    "swearing": "^1.0.1",
-    "wa-snap": "^0.2.0"
+    "swearing": "^1.0.2",
+    "wa-util": "^0.6.0"
   },
   "devDependencies": {
     "standard": "^7.1.2"
